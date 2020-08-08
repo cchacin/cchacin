@@ -21,6 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ 🔌 Restore IntelliJ Idea settings ⛽](https://dev.to/cchacin/restore-intellij-idea-settings-2n5e)
+- [ 💾 Java 14 Records 🐞 with JakartaEE JSON-B](https://dev.to/cchacin/java-14-records-with-jakartaee-json-b-160n)
+- [🚀 Java 14 Records 💾 (Preview)](https://dev.to/cchacin/java-14-records-preview-37om)
+- [☕️ Immutables/AutoValue/Lombok 🔥 Which One?](https://dev.to/cchacin/immutables-autovalue-lombok-which-one-2j33)
+- [🎩 Immutability in Java 🔥 Made Easy](https://dev.to/cchacin/immutability-in-java-made-easy-372g)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
